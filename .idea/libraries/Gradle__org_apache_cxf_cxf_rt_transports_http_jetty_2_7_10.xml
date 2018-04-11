@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.cxf:cxf-rt-transports-http-jetty:2.7.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-transports-http-jetty/2.7.10/1512608c153cf453f36030e07e20aac5e3cfd221/cxf-rt-transports-http-jetty-2.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-transports-http-jetty/2.7.10/3e1faeef085f97b752b3016087bfaefd7d0235cc/cxf-rt-transports-http-jetty-2.7.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

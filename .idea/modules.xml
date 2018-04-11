@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SWAMockExtService.iml" filepath="$PROJECT_DIR$/SWAMockExtService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SWAMockExtService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SWAMockExtService_main.iml" group="SWAMockExtService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SWAMockExtService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SWAMockExtService_test.iml" group="SWAMockExtService" />
+    </modules>
+  </component>
+</project>
